@@ -43,7 +43,7 @@ int num;
     int result = num % 10;
     return result;
 }      
-int result = ThirdDigit();
+result = ThirdDigit();
 System.Console.WriteLine(result);
 
 
