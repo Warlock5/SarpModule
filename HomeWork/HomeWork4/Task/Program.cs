@@ -10,7 +10,7 @@
 /*
 int DigitSum(int N)
 {
- int result = 0;
+ int result = 0; 
  while(N > 0)
  {
     result += N % 10;
