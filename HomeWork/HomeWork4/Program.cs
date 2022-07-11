@@ -10,7 +10,7 @@
 /*
 int DigitSum(int N)
 {
- int result = 0; 
+ int result = 0;
  while(N > 0)
  {
     result += N % 10;
@@ -42,5 +42,4 @@ for(int i =0; i < array.Length; i ++)
     Console.Write(array[i] + " ");
 
 System.Console.WriteLine();
-
 
